@@ -1,0 +1,1 @@
+Open Source Initiative listed down a few criterias

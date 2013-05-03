@@ -1,0 +1,3 @@
+Let's imagine that I've convinced you that open source is awesome and GitHub
+is awesome and you want to start contributing to an open source project...
+give back to the community and stuff.
